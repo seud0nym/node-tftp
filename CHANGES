@@ -1,3 +1,7 @@
+v0.1.3-seudonym (06 Nov 2022)
+	Fixed "cb is not a function" error
+	Fixed deprecated new Buffer calls
+
 v0.1.2 (13 Sep 2015)
 	Fixed #14.
 
