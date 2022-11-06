@@ -3,11 +3,6 @@ tftp
 
 #### Streaming TFTP client and server ####
 
-[![NPM version](https://badge.fury.io/js/tftp.png)](http://badge.fury.io/js/tftp "Fury Version Badge")
-[![Dependency Status](https://david-dm.org/gagle/node-tftp.png)](https://david-dm.org/gagle/node-tftp "David Dependency Manager Badge")
-
-[![NPM installation](https://nodei.co/npm/tftp.png?mini=true)](https://nodei.co/npm/tftp "NodeICO Badge")
-
 Full-featured streaming TFTP client and server. It supports most of the RFCs:
 
 - [1350 - The TFTP protocol](http://www.ietf.org/rfc/rfc1350.txt) ✓
